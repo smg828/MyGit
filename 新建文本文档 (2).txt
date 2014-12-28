@@ -1,0 +1,22 @@
+<div class='modal' id='confirmModal' aria-hidden='false' role='dialog'>
+		<div class='modal-dialog modal-sm' style='margin-top: 300px;width: 350px;'>
+			<div class='modal-content' >
+				<div class='modal-header'>
+					<h4 class='modal-title'>Œ¬‹∞Ã· æ</h4>
+				</div>
+				<div class='panel-body'>
+					<div class='form-inline' align='center'>
+						<span id="confirmTipInfo"></span>				
+					</div>
+					<div align='center' style='margin-top:10px;'>
+						<button type='button' class='btn btn-default btn-sm' data-dismiss='modal'>
+							<span class='glyphicon glyphicon-remove'></span>&nbsp;∑Ò
+						</button>
+						<button class='btn btn-success btn-sm' type='button' data-dismiss='modal' onclick='submitOrder();'>
+							<span class='glyphicon glyphicon-ok'></span>&nbsp; «
+						</button>
+					</div>					
+				</div>
+			</div>
+		</div>
+	</div>
